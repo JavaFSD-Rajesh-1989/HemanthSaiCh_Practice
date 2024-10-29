@@ -1,5 +1,5 @@
 
-# Core Java Practice 
+# Java Practice 
 
 This project contains a collection of example programs demonstrating various core Java concepts. Each concept is organized into its own package, allowing for easy navigation and understanding of Java fundamentals.
 
