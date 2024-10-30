@@ -11,12 +11,14 @@ public class LinkedListExample {
 		LinkedList<Integer> linkedList = new LinkedList<>();
 		linkedList.add(10); // O(1)
 		linkedList.add(20); // O(1)
+		linkedList.add(30); // O(1)
 		System.out.println("LinkedList after appending: " + linkedList);
 		
 		// ArrayList
 		ArrayList<Integer> arrayList = new ArrayList<>();
 		arrayList.add(10); // O(1)
 		arrayList.add(20); // O(1)
+		arrayList.add(30); // O(1)
 		System.out.println("ArrayList after appending: " + arrayList);
 		
 		// 2. Remove Last - remove() last element
